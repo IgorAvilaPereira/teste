@@ -1,10 +1,10 @@
 #!/bin/bash  
 
-BASE_DIRECTORY=$(dirname ./)
-echo $BASE_DIRECTORY
+echo "Atualizando o repositorio $1 e sua wiki"
 
+#BASE_DIRECTORY=$(dirname ./)
+#echo $BASE_DIRECTORY
 #script="teste"
-
 #git add * && git commit -m $1 && git push
 
 echo "# $1 <br>" > "README.md"
@@ -19,3 +19,5 @@ done
 
 git add * && git commit -m $1 && git push
 cd "./../$1.wiki/" && git add * && git commit -m $1 && git push
+
+echo "Processo de Atualizacao - ok"
