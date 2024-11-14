@@ -7,8 +7,9 @@ echo "# $1 <br>" > "./../$1.wiki/Home.md"
 
 search_dir=$1
 
-for entry in "$search_dir"/* do
-	echo "$entry"
+for entry in "$search_dir"/*
+do
+        echo "$entry"
     	#echo "## $2 <br> <br> [Acessar](https://github.com/IgorAvilaPereira/$1/tree/main/$entry) <br>" >> "README.md"
 	#echo "## $2 <br> <br> [Acessar](https://github.com/IgorAvilaPereira/$1/tree/main/$entry) <br>" >> "./../$1.wiki/Home.md"
 done
