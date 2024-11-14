@@ -7,4 +7,5 @@
 ## [./aula5](https://github.com/IgorAvilaPereira/teste/tree/main/./aula5) <br>
 ## [./aula6](https://github.com/IgorAvilaPereira/teste/tree/main/./aula6) <br>
 ## [./aula7](https://github.com/IgorAvilaPereira/teste/tree/main/./aula7) <br>
+## [./aula8_proxy](https://github.com/IgorAvilaPereira/teste/tree/main/./aula8_proxy) <br>
 ## [./nova_aula.sh](https://github.com/IgorAvilaPereira/teste/tree/main/./nova_aula.sh) <br>
