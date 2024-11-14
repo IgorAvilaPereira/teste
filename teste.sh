@@ -8,7 +8,7 @@ echo "# $1 <br>" > "README.md"
 echo "# $1 <br>" > "./../$1.wiki/Home.md"
 
 for d in ./*; do
-	if [ "$d" != "./README.md"  && "$d" != "./teste.sh" ]; then
+	if [[ "$d" != "./README.md"  && "$d" != "./teste.sh" ]]; then
 		echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "README.md"
 		echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "./../$1.wiki/Home.md"
 	fi
