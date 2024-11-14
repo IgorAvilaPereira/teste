@@ -2,6 +2,8 @@
 
 echo "Atualizando o repositorio $1 e sua wiki"
 
+git pull
+
 #BASE_DIRECTORY=$(dirname ./)
 #echo $BASE_DIRECTORY
 #script="teste"
