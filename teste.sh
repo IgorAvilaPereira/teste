@@ -1,5 +1,8 @@
 #!/bin/bash  
 
+BASE_DIRECTORY=$(dirname ./)
+echo $BASE_DIRECTORY
+
 #script="teste"
 
 #git add * && git commit -m $1 && git push
