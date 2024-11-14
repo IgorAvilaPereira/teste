@@ -18,6 +18,7 @@ echo "Atualizando o repositorio $1 e sua wiki"
 echo "# $1 <br>" > "README.md"
 echo "# $1 <br>" > "./../$1.wiki/Home.md"
 
+for d in ./*; do
 	if [[ "$d" != "./README.md"  && "$d" != "./atualizar_wiki.sh" && "$d" != "./nova_aula.sh" ]]; then
 		echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "README.md"
 		echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "./../$1.wiki/Home.md"
