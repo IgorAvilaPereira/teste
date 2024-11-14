@@ -1,6 +1,6 @@
 #!/bin/bash  
 
-script="teste"
+#script="teste"
 
 git add * && git commit -m $1 && git push
 
@@ -9,11 +9,11 @@ echo "# $1 <br>" > "./../$1.wiki/Home.md"
 
 for d in ./*; do
 	if [ "$d" != "./README.md" ]; then
-		if ["$d" != "./$script.sh"]; then
+		if ["$d" != "./teste.sh"]; then
 			echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "README.md"
 		        echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "./../$1.wiki/Home.md"
 		fi
-	fi	
+	fi
 done
 
 git add * && git commit -m $1 && git push
