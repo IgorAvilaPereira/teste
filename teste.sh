@@ -6,8 +6,8 @@ echo "# $1 <br>" > "./../$1.wiki/Home.md"
 search_dir=$2
 for entry in "$search_dir"/*
 do
-    	echo "## $2 <br> [Acessar](https://github.com/IgorAvilaPereira/$1) <br> *** <br>" >> "README.md"
-	echo "## $2 <br> [Acessar](https://github.com/IgorAvilaPereira/$1/wiki)" >> "./../$1.wiki/Home.md"
+    	echo "## $2 <br> <br> [Acessar](https://github.com/IgorAvilaPereira/$1/$2) <br>" >> "README.md"
+	echo "## $2 <br> <br> [Acessar](https://github.com/IgorAvilaPereira/$1/$2) <br> " >> "./../$1.wiki/Home.md"
 done
 
 git add * && git commit -m $2 && git push
