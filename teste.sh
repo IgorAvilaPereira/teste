@@ -2,7 +2,7 @@
 
 #script="teste"
 
-git add * && git commit -m $1 && git push
+#git add * && git commit -m $1 && git push
 
 echo "# $1 <br>" > "README.md"
 echo "# $1 <br>" > "./../$1.wiki/Home.md"
