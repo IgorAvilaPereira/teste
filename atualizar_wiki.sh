@@ -11,6 +11,7 @@ for d in ./*; do
 		echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "./../$1.wiki/Home.md"
 		
 		for d2 in "$d/"; do
+			echo "$d"
 			echo "$d2"
 			# echo $d2 | cut -d' ' -f1
 			echo "$d2 <br>" >> "README.md"		
