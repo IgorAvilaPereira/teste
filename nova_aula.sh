@@ -2,7 +2,7 @@
 
 # $1 => repository
 # $2 => pasta aula
-mkdir $2 && cd $2 && touch "README.md" && echo "# $2 <br>" >> "README.md" && git add * && git commit -m $2 && git push
+mkdir $1 && cd $1 && touch "README.md" && echo "# $1 <br>" >> "README.md" && git add * && git commit -m $1 && git push
 cd ./../
 
 # git pull
