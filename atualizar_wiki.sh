@@ -13,7 +13,7 @@ for d in ./*; do
 		for d2 in ./*; do
 			echo "$d2"
 			export New_string=$(echo "$d2" | tr './/' '[')
-			echo "Modified_string:" "$New_string]"
+			echo "Modified_string:" "$New_string"
 			# if [[ "$d2" != "./*"]]; then				
 				# echo "$d2 <br>" >> "./../README.md"		
 				# echo "$d2 <br>" >> "./../../$1.wiki/Home.md"			
