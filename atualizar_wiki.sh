@@ -12,10 +12,10 @@ for d in ./*; do
 		cd $d
 		for d2 in ./*; do
 			# echo "$d2"
-			if [ "$d2" != "./*"]; then				
+			# if [[ "$d2" != "./*"]]; then				
 				echo "$d2 <br>" >> "README.md"		
 				echo "$d2 <br>" >> "./../$1.wiki/Home.md"			
-			fi
+			# fi
 		done
 		cd ..
 	fi
