@@ -1,5 +1,6 @@
 # teste <br>
 ## [./aula1](https://github.com/IgorAvilaPereira/teste/tree/main/./aula1) <br>
+[Estrategias de Mapeamento.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula1/Estrategias de Mapeamento.md) <br>
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula1/README.md) <br>
 [teste.sql](https://github.com/IgorAvilaPereira/teste/blob/main/./aula1/teste.sql) <br>
 [teste.txt](https://github.com/IgorAvilaPereira/teste/blob/main/./aula1/teste.txt) <br>
