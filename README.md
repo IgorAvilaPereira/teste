@@ -1,8 +1,6 @@
 # teste <br>
 ## [./aula1](https://github.com/IgorAvilaPereira/teste/tree/main/./aula1) <br>
 ## [](https://github.com/IgorAvilaPereira/teste/tree/main/) <br>
-## [./aula11](https://github.com/IgorAvilaPereira/teste/tree/main/./aula11) <br>
-## [](https://github.com/IgorAvilaPereira/teste/tree/main/) <br>
 ## [./aula2](https://github.com/IgorAvilaPereira/teste/tree/main/./aula2) <br>
 ## [](https://github.com/IgorAvilaPereira/teste/tree/main/) <br>
 ## [./aula3_decorator](https://github.com/IgorAvilaPereira/teste/tree/main/./aula3_decorator) <br>
@@ -14,6 +12,4 @@
 ## [./aula6](https://github.com/IgorAvilaPereira/teste/tree/main/./aula6) <br>
 ## [](https://github.com/IgorAvilaPereira/teste/tree/main/) <br>
 ## [./aula7](https://github.com/IgorAvilaPereira/teste/tree/main/./aula7) <br>
-## [](https://github.com/IgorAvilaPereira/teste/tree/main/) <br>
-## [./aula8_proxy](https://github.com/IgorAvilaPereira/teste/tree/main/./aula8_proxy) <br>
 ## [](https://github.com/IgorAvilaPereira/teste/tree/main/) <br>
