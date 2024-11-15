@@ -9,10 +9,11 @@ for d in ./*; do
 	if [[ "$d" != "./README.md"  && "$d" != "./atualizar_wiki.sh" && "$d" != "./nova_aula.sh" ]]; then
 		echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "README.md"		
 		echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "./../$1.wiki/Home.md"
-		for d2 in ./$d/* do
+		# for d2 in "./${$d\/.\/\/}/*" do
+		# 	echo $d2
 			echo "## [$d2](https://github.com/IgorAvilaPereira/$1/tree/main/$d2) <br>" >> "README.md"		
 			echo "## [$d2](https://github.com/IgorAvilaPereira/$1/tree/main/$d2) <br>" >> "./../$1.wiki/Home.md"			
-		done
+		# done
 	fi
 done
 echo "Atualizando o readme"
