@@ -19,6 +19,11 @@ for d in ./*; do
 				echo "[$d2](https://github.com/IgorAvilaPereira/$1/blob/main/$d/$d2) <br>" >> "./../../$1.wiki/Home.md"			
 		# 	# fi
 		done
+
+		for i in $(ls -d */); do 			
+			echo "[${i%%/}](https://github.com/IgorAvilaPereira/$1/blob/main/$d/${i%%/}) <br>" >> "./../README.md"		
+			echo "[${i%%/}](https://github.com/IgorAvilaPereira/$1/blob/main/$d/${i%%/}) <br>" >> "./../../$1.wiki/Home.md"	
+		done
 		cd ..
 	fi
 done
