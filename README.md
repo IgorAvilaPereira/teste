@@ -1,9 +1,5 @@
 # teste <br>
-## [./14_11_Decorator](https://github.com/IgorAvilaPereira/teste/tree/main/./14_11_Decorator) <br>
-## [](https://github.com/IgorAvilaPereira/teste/tree/main/) <br>
 ## [./aula1](https://github.com/IgorAvilaPereira/teste/tree/main/./aula1) <br>
-## [](https://github.com/IgorAvilaPereira/teste/tree/main/) <br>
-## [./aula10](https://github.com/IgorAvilaPereira/teste/tree/main/./aula10) <br>
 ## [](https://github.com/IgorAvilaPereira/teste/tree/main/) <br>
 ## [./aula11](https://github.com/IgorAvilaPereira/teste/tree/main/./aula11) <br>
 ## [](https://github.com/IgorAvilaPereira/teste/tree/main/) <br>
