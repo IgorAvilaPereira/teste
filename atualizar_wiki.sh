@@ -13,8 +13,8 @@ for d in ./*; do
 		for d2 in "$d/*"; do
 			# echo $d2
 			# echo $d2 | cut -d' ' -f1
-			echo "[$d2](https://github.com/IgorAvilaPereira/$1/tree/main/$d/${d2\/.\/}) <br>" >> "README.md"		
-			echo "[$d2](https://github.com/IgorAvilaPereira/$1/tree/main/$d/${d2\/.\/}) <br>" >> "./../$1.wiki/Home.md"			
+			echo "$d2 <br>" >> "README.md"		
+			echo "$d2 <br>" >> "./../$1.wiki/Home.md"			
 		done
 	fi
 done
