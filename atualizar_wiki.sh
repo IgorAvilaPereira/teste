@@ -14,8 +14,9 @@ for d in ./*; do
 		for d2 in *.*; do
 			# echo "$d2"
 		# 	# if [[ "$d2" != ]]; then			
-				echo "[$d2](https://github.com/IgorAvilaPereira/$1/tree/main/$d2) <br>" >> "./../README.md"		
-				echo "[$d2](https://github.com/IgorAvilaPereira/$1/tree/main/$d2) <br>" >> "./../../$1.wiki/Home.md"			
+				# https://github.com/IgorAvilaPereira/teste/blob/main/aula1/teste.txt
+				echo "[$d2](https://github.com/IgorAvilaPereira/$1/blob/main/$d/$d2) <br>" >> "./../README.md"		
+				echo "[$d2](https://github.com/IgorAvilaPereira/$1/blob/main/$d/$d2) <br>" >> "./../../$1.wiki/Home.md"			
 		# 	# fi
 		done
 		cd ..
