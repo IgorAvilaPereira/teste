@@ -20,7 +20,7 @@ for d in ./*; do
 		# 	# fi
 		done
 
-		for i in -d */; do 			
+		for i in */; do 			
 			echo "[${i%%/}](https://github.com/IgorAvilaPereira/$1/blob/main/$d/${i%%/}) <br>" >> "./../README.md"		
 			echo "[${i%%/}](https://github.com/IgorAvilaPereira/$1/blob/main/$d/${i%%/}) <br>" >> "./../../$1.wiki/Home.md"	
 		done
