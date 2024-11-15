@@ -12,7 +12,7 @@ for d in ./*; do
 		cd $d
 		for d2 in ./*; do
 			echo "$d2"
-			export New_string=$(echo "$d2" | tr './//' '[')
+			export New_string=$(echo "$d2" | tr "./" '[')
 			echo "Modified_string:" "$New_string"
 			# if [[ "$d2" != "./*"]]; then				
 				# echo "$d2 <br>" >> "./../README.md"		
