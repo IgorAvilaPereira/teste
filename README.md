@@ -28,3 +28,6 @@
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula7/README.md) <br>
 [sdfsdf.txt](https://github.com/IgorAvilaPereira/teste/blob/main/./aula7/sdfsdf.txt) <br>
 [oi](https://github.com/IgorAvilaPereira/teste/blob/main/./aula7/oi) <br>
+## [./final](https://github.com/IgorAvilaPereira/teste/tree/main/./final) <br>
+[README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./final/README.md) <br>
+[*](https://github.com/IgorAvilaPereira/teste/blob/main/./final/*) <br>
