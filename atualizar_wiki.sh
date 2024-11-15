@@ -14,7 +14,7 @@ for d in ./*; do
 			# echo "$d2"
 			# if [[ "$d2" != "./*"]]; then				
 				echo "$d2 <br>" >> "README.md"		
-				echo "$d2 <br>" >> "./../$1.wiki/Home.md"			
+				echo "$d2 <br>" >> "./../../$1.wiki/Home.md"			
 			# fi
 		done
 		cd ..
