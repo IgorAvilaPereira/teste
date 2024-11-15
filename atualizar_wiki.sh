@@ -10,14 +10,14 @@ for d in ./*; do
 		echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "README.md"		
 		echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "./../$1.wiki/Home.md"
 		cd $d				
-		echo *.*
-		# for d2 in $files; do
-		# 	# echo "$d2"
+		# echo *.*
+		for d2 in *.*; do
+			echo "$d2"
 		# 	# if [[ "$d2" != ]]; then			
 		# 		# echo "[$d2](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "./../README.md"		
 		# 		# echo "[$d2](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "./../../$1.wiki/Home.md"			
 		# 	# fi
-		# done
+		done
 		cd ..
 	fi
 done
