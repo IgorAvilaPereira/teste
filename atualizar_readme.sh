@@ -1,5 +1,8 @@
 #!/bin/bash  
 git pull
+git add *
+git commit -m 'atualizando $1'
+git push
 echo "# $1 <br>" > "README.md"
 echo "# $1 <br>" > "./../$1.wiki/Home.md"
 echo "Listando todos os diretorios de $1"
@@ -9,7 +12,7 @@ for d in ./*; do
 		# se n tiver wiki, favor comentar
 		echo "## [$d](https://github.com/IgorAvilaPereira/$1/tree/main/$d) <br>" >> "./../$1.wiki/Home.md"		
 		cd $d							
-			
+
 		for d2 in *.*; do
 			echo "[$d2](https://github.com/IgorAvilaPereira/$1/blob/main/$d/$d2) <br>" >> "./../README.md"		
 			# se n tiver wiki, favor comentar
