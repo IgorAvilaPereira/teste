@@ -1,5 +1,4 @@
 #!/bin/bash  
-
 echo "Processo de atualizacao do repositorio $1 e de sua wiki"
 git pull
 echo "# $1 <br>" > "README.md"
