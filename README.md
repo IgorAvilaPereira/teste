@@ -10,3 +10,5 @@
 ## [./aula3](https://github.com/IgorAvilaPereira/teste/tree/main/./aula3) <br>
 [main.py](https://github.com/IgorAvilaPereira/teste/blob/main/./aula3/main.py) <br>
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula3/README.md) <br>
+## [./aula4](https://github.com/IgorAvilaPereira/teste/tree/main/./aula4) <br>
+[README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula4/README.md) <br>
