@@ -132,7 +132,7 @@ Como os atributos individualmente podem ser repetir, vamos tentar uma chave prim
 
 ## Resumo - Representação Gráfica - Atributos
 
-![image](https://github.com/user-attachments/assets/ffe6c4ca-a438-4cb6-9d69-076a9637aafb)
+![image](./imgs/resumo.png)
 
 <!--## Conteúdo complementar
 
