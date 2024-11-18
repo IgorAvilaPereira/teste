@@ -24,7 +24,7 @@ Uma **entidade** representa um conjunto de objetos do mesmo tipo do mundo real e
 
 Uma **entidade** é representada graficamente por um retângulo com o nome da entidade dentro do retângulo
 
-![image](https://github.com/user-attachments/assets/bedd3d95-4f00-4a5f-baf7-07f8eea337ab)
+![image](./imgs/entidade.png)
 
 
 ## Atributos
