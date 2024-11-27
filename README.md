@@ -19,3 +19,5 @@
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula4/README.md) <br>
 ## [./aula5_decorator](https://github.com/IgorAvilaPereira/teste/tree/main/./aula5_decorator) <br>
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula5_decorator/README.md) <br>
+## [./aula_teste](https://github.com/IgorAvilaPereira/teste/tree/main/./aula_teste) <br>
+[README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula_teste/README.md) <br>
