@@ -5,7 +5,8 @@ git commit -m 'atualizando'
 git push
 
 echo "# ${PWD##*/} <br>" > "README.md"
-echo "# ${PWD##*/} <br>" > "./../"${PWD##*/}".wiki/Home.md"
+echo "# ${PWD##*/} <br>"
+echo "# ${PWD##*/} <br>" > "./../${PWD##*/}.wiki/Home.md"
 
 for d in ./*; do
 
