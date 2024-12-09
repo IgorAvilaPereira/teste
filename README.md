@@ -23,5 +23,7 @@
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula6/README.md) <br>
 ## [./aula7](https://github.com/IgorAvilaPereira/teste/tree/main/./aula7) <br>
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula7/README.md) <br>
+## [./aula7_091224](https://github.com/IgorAvilaPereira/teste/tree/main/./aula7_091224) <br>
+[README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula7_091224/README.md) <br>
 ## [./aula_teste](https://github.com/IgorAvilaPereira/teste/tree/main/./aula_teste) <br>
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula_teste/README.md) <br>
