@@ -1,4 +1,8 @@
 #!/bin/bash  
+
+repositorio = ${PWD##*/}
+echo "${PWD##*/}"
+
 git pull
 git add *
 git commit -m 'atualizando'
