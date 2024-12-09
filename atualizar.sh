@@ -1,13 +1,11 @@
 #!/bin/bash  
 
+git pull
+git add *
+git commit -m 'atualizando'
+git push
+
 repositorio=${PWD##*/}
-# echo $repositorio
-
-# git pull
-# git add *
-# git commit -m 'atualizando'
-# git push
-
 echo "# $repositorio <br>" > "README.md"
 echo "# $repositorio <br>" > "./../"$repositorio".wiki/Home.md"
 # echo "./../"$repositorio".wiki/Home.md"
