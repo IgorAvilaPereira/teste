@@ -8,8 +8,6 @@ git push
 repositorio=${PWD##*/}
 echo "# $repositorio <br>" > "README.md"
 echo "# $repositorio <br>" > "./../"$repositorio".wiki/Home.md"
-# echo "./../"$repositorio".wiki/Home.md"
-# exit 0
 
 for d in ./*; do
 
