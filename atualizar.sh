@@ -1,7 +1,7 @@
 #!/bin/bash  
 
-repositorio = ${PWD##*/}
-echo "${PWD##*/}"
+repositorio=${PWD##*/}
+echo repositorio
 
 git pull
 git add *
