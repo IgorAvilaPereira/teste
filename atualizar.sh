@@ -41,7 +41,7 @@ git add * && git commit -m 'atualizando' && git push
 # se n tiver wiki, favor comentar
 cd "./../"$repositorio".wiki/" && git add * && git commit -m 'atualizando' && git push
 
-echo "===================================\n"
+echo "===================================\\n"
 cd "./../"$repositorio"/" && cat "README.md"	
-echo "===================================\n"
+echo "===================================\\n"
 
