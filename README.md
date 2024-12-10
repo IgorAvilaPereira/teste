@@ -28,3 +28,5 @@
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula7_091224/README.md) <br>
 ## [./como_instalar_postgresql_windows](https://github.com/IgorAvilaPereira/teste/tree/main/./como_instalar_postgresql_windows) <br>
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./como_instalar_postgresql_windows/README.md) <br>
+## [./teste.wiki](https://github.com/IgorAvilaPereira/teste/tree/main/./teste.wiki) <br>
+[Home.md](https://github.com/IgorAvilaPereira/teste/blob/main/./teste.wiki/Home.md) <br>
