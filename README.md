@@ -10,6 +10,7 @@
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula1_er/README.md) <br>
 [imgs](https://github.com/IgorAvilaPereira/teste/blob/main/./aula1_er/imgs) <br>
 ## [./aula2](https://github.com/IgorAvilaPereira/teste/tree/main/./aula2) <br>
+[postgresql_no_windows.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula2/postgresql_no_windows.md) <br>
 [README.md](https://github.com/IgorAvilaPereira/teste/blob/main/./aula2/README.md) <br>
 [teste.txt](https://github.com/IgorAvilaPereira/teste/blob/main/./aula2/teste.txt) <br>
 ## [./aula3](https://github.com/IgorAvilaPereira/teste/tree/main/./aula3) <br>
