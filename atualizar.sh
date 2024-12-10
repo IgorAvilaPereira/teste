@@ -40,7 +40,7 @@ done
 git add * && git commit -m 'atualizando' && git push
 # se n tiver wiki, favor comentar
 cd "./../"$repositorio".wiki/" && git add * && git commit -m 'atualizando' && git push
-
+# exibindo o novo README criado. Este mesmo README aparecera no Home.md da wiki (caso exista)
 echo "==================================="
 cd "./../"$repositorio"/" && cat "README.md"	
 echo "==================================="
