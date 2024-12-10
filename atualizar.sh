@@ -44,4 +44,4 @@ cd "./../"$repositorio".wiki/" && git add * && git commit -m 'atualizando' && gi
 echo "==================================="
 cd "./../"$repositorio"/" && cat "README.md"	
 echo "==================================="
-
+xed "README.md"	
