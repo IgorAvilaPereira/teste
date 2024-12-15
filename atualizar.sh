@@ -10,10 +10,9 @@ echo "# $repositorio <br>" > "README.md"
 echo "# $repositorio <br>" > "./../"$repositorio".wiki/Home.md"
 
 # listando tudo interno ao repositorio
-#for d in ./*; do
-for d in *.*; do
+for d in ./*; do
 
-	if [[ "$d" != "README.md" && "$d" != "atualizar.sh" && "$d" != "nova_aula.sh" ]]; then
+	if [[ "$d" != "./README.md" && "$d" != "./atualizar.sh" && "$d" != "./nova_aula.sh" ]]; then
 		echo "## [$d](https://github.com/IgorAvilaPereira/"$repositorio"/tree/main/$d) <br>" >> "README.md"		
 		# se n tiver wiki, favor comentar
 		echo "## [$d](https://github.com/IgorAvilaPereira/"$repositorio"/tree/main/$d) <br>" >> "./../"$repositorio".wiki/Home.md"		
